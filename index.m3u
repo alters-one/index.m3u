@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png?download" group-title="Movies",Zee Cinema (360p)
-https://alters-one.github.io/iptv/Channels/ZeeCinema/360.m3u8
-#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/960px-Zee_Cinema_2025.svg.png?download" group-title="Movies",Zee Cinema (720p)
-https://alters-one.github.io/iptv/Channels/ZeeCinema/720.m3u8
